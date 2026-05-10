@@ -39,7 +39,7 @@ I am an Informatics Engineering student at **Institut Teknologi Sumatera (ITERA)
 *   **[Sawit Harvester](https://github.com/SinagaPande/Oil-Palm-Godot)**  *Awarded "Most Popular Game" at Informatics Expo 2025 (ITERA)*
     A 3D action-simulation game built with Godot. Play as a palm oil plantation worker in Sumatra, harvesting crops while defending against thieves and wild boars using a slingshot. Features dynamic weather (rain, fog) and active AI.
 *   **[Nyan Village](https://github.com/username/nyan-village)**
-    A farming life simulator built with Python and Pygame. Features a complete farming cycle, time/stamina management, and an open-ended economy—all centered around a village of cats.
+    A farming life simulator built with Python and Pygame. Features a complete farming cycle, time/stamina management, and an open-ended economy centered around a village of cats.
 
 ### Software Engineering
 *   **[Clinic Appointment System](https://github.com/MarioSitepu/uas-paw-mario-bilang-nama-timnya-sigmaboy-aja-dan-kita-setuju)**
